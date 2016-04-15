@@ -18,9 +18,9 @@
 
 * Siber Meydan 2014 İlk Turda Takım Olarak 13. lük (Yarışmanın finalleri iptal edilmiştir)
 * Siber Meydan 2013 Takım Olarak 7. lik
-* 2013 TÜBİTAK­2204 Bilgisayar Dalında Eskişehir Bölge 1. liğ
-* 2013 TÜBİTAK­2204 Bilgisayar Dalında Türkiye 3.lüğü
-* 2011 TÜBİTAK­2204 Bilgisayar Dalında Bursa Bölge 3. lüğü
+* 2013 TÜBİTAK 2204 Bilgisayar Dalında Eskişehir Bölge 1. liğ
+* 2013 TÜBİTAK 2204 Bilgisayar Dalında Türkiye 3.lüğü
+* 2011 TÜBİTAK 2204 Bilgisayar Dalında Bursa Bölge 3. lüğü
  
 **Beceriler**
 * **Yabancı Dil**

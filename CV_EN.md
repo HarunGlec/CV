@@ -18,8 +18,6 @@
 
 * ”Siber Meydan” Official National CTF Competition for University Students 13th as a Team at the first-round (Final-round is canceled)
 * ”Siber Meydan” Official National CTF Competition for University Students 7th as a Team
-* Siber Meydan 2014 İlk Turda Takım Olarak 13. lük (Yarışmanın finalleri iptal edilmiştir)
-* Siber Meydan 2013 Takım Olarak 7. lik
 * 2013 National Project Competition in Computer Science Regional 1st Place
 * 2013 National Project Competition in Computer Science 3rd Place
 * 2011 National Project Competition in Computer Science Regional 3rd Place

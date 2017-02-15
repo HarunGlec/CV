@@ -1,7 +1,8 @@
 ### Harun GÜLEÇ
 
 **Education**
-* Pamukkale Univercity, Faculty of Engineering, Computer Engineering 2015  
+* Bialystok University of Technology, Faculty of Computer Science, Computer Science 2016-2017  
+* Pamukkale Univercity, Faculty of Engineering, Computer Engineering 2015-2016  
 
 **Certified Courses**
 * PostgreSQL DBA (AB2016)

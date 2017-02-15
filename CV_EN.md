@@ -11,7 +11,7 @@
 
 **Experience**
 * Adeo Consulting
-  *Malware Analyst
+ *Malware Analyst
 * Pamukkale Univercity IT Department
  * Studying about PacketFence NAC (Network Access Control) Solution
 

@@ -10,8 +10,8 @@
 * Hacktrick Malware Analysis ‘14
 
 **Experience**
-* Adeo Consulting
- *Malware Analyst
+* ADEO IT Consulting Services
+ * Malware Analyst
 * Pamukkale Univercity IT Department
  * Studying about PacketFence NAC (Network Access Control) Solution
 

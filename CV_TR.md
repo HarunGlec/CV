@@ -12,13 +12,13 @@
  
 **Deneyim**
 * ADEO Bilişim Danışmanlık Hizmetleri A.Ş., Malware Analizi
- * Malware analizi üzerine çalışmalar
+  * Malware analizi üzerine çalışmalar
 * ADEO Bilişim Danışmanlık Hizmetleri A.Ş., Pentest
- * [MSFvenom Kullanımı](https://www.adeosecurity.com/blog/msfvenom-kullanimi.html)
- * [Crypter Nedir?](https://www.adeosecurity.com/siber-guvenlik/crypter-nedir.html)
- * [Rubber Ducky Nedir?](https://www.adeosecurity.com/siber-guvenlik/rubber-ducky-nedir.html)
+  * [MSFvenom Kullanımı](https://www.adeosecurity.com/blog/msfvenom-kullanimi.html)
+  * [Crypter Nedir?](https://www.adeosecurity.com/siber-guvenlik/crypter-nedir.html)
+  * [Rubber Ducky Nedir?](https://www.adeosecurity.com/siber-guvenlik/rubber-ducky-nedir.html)
 * Pamukkale Üniversitesi Bilgi İşlem Daire Başkanlığı, Network ve Sistem Yönetimi
- * PacketFence NAC (Network Access Control) yazılımının incelenmesi
+  * PacketFence NAC (Network Access Control) yazılımının incelenmesi
   
 **Ödüller ve Başarılar**
 

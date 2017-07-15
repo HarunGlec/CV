@@ -31,17 +31,17 @@
  
 **Beceriler**
 * **Yabancı Dil**
- * İyi düzeyde İngilizce  
+  * İyi düzeyde İngilizce  
 * **İşletim Sistemi**  
- * Linux (Ubuntu,Debian,Kali vb.)  
- * Windows  
+  * Linux (Ubuntu,Debian,Kali vb.)  
+  * Windows  
 * **Programlama Dilleri**  
- * Php (Laravel Framework)  
- * Pyhton  
- * C  
- * Java  
+  * Php (Laravel Framework)  
+  * Pyhton  
+  * C  
+  * Java  
 * **Diğer**  
- * Digital Forensic, Network, Malware analizi  
+  * Digital Forensic, Network, Malware analizi  
 
 **Diğer Bilgiler**      
   * **Ehliyet** : B    

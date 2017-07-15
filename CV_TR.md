@@ -1,7 +1,8 @@
 ### Harun GÜLEÇ
 
 **Eğitim**
-* Pamukkale Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği 2015  
+* Pamukkale Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği, 2015 - ...  
+* Bialystok University of Technology, Faculty of Computer Science, Computer Science, 2016-2017  
  
 **Sertifikalı Eğitimler**
 * PostgreSQL DBA Eğitimi (AB2016)
@@ -10,12 +11,18 @@
 * Hacktrick Malware Analizi Eğitimi ‘14
  
 **Deneyim**
-
-* Pamukkale Üniversitesi Bilgi İşlem Daire Başkanlığı
+* ADEO Bilişim Danışmanlık Hizmetleri A.Ş., Malware Analizi
+ * Malware analizi üzerine çalışmalar
+* ADEO Bilişim Danışmanlık Hizmetleri A.Ş., Pentest
+ * [MSFvenom Kullanımı](https://www.adeosecurity.com/blog/msfvenom-kullanimi.html)
+ * [Crypter Nedir?](https://www.adeosecurity.com/siber-guvenlik/crypter-nedir.html)
+ * [Rubber Ducky Nedir?](https://www.adeosecurity.com/siber-guvenlik/rubber-ducky-nedir.html)
+* Pamukkale Üniversitesi Bilgi İşlem Daire Başkanlığı, Network ve Sistem Yönetimi
  * PacketFence NAC (Network Access Control) yazılımının incelenmesi
   
 **Ödüller ve Başarılar**
 
+* Siber Yıldız Takım Olarak 14. lük
 * Siber Meydan 2014 İlk Turda Takım Olarak 13. lük (Yarışmanın finalleri iptal edilmiştir)
 * Siber Meydan 2013 Takım Olarak 7. lik
 * 2013 TÜBİTAK 2204 Bilgisayar Dalında Eskişehir Bölge 1. liğ

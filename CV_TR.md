@@ -33,7 +33,7 @@
  
 **Beceriler**
 * **Yabancı Dil**
-  * İngilizce B2  
+  * İngilizce (B2)  
 * **İşletim Sistemi**  
   * Linux (Ubuntu,Debian,Kali vb.)  
   * Windows  

@@ -5,6 +5,7 @@
 * Bialystok University of Technology, Faculty of Computer Science, Computer Science, 2016-2017  
  
 **Sertifikalı Eğitimler**
+* Makine Öğrenmesi (Stanford University | Coursera)
 * PostgreSQL DBA Eğitimi (AB2016)
 * Siber Güvenlik Kış Kampı ‘15
 * Cisco Siber Güvenliğe Giriş Eğitimi
@@ -22,6 +23,7 @@
   
 **Ödüller ve Başarılar**
 
+* STM CTF'17 Takım Olarak 1.lik
 * Siber Yıldız Takım Olarak 14. lük
 * Siber Meydan 2014 İlk Turda Takım Olarak 13. lük (Yarışmanın finalleri iptal edilmiştir)
 * Siber Meydan 2013 Takım Olarak 7. lik
@@ -31,7 +33,7 @@
  
 **Beceriler**
 * **Yabancı Dil**
-  * İyi düzeyde İngilizce  
+  * İngilizce B2  
 * **İşletim Sistemi**  
   * Linux (Ubuntu,Debian,Kali vb.)  
   * Windows  

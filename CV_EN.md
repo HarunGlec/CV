@@ -13,9 +13,9 @@
 
 **Experience**
 * ADEO IT Consulting Services, Malware Analyst
-  * [MSFvenom Kullanımı](https://www.adeosecurity.com/blog/msfvenom-kullanimi.html)
-  * [Crypter Nedir?](https://www.adeosecurity.com/siber-guvenlik/crypter-nedir.html)
-  * [Rubber Ducky Nedir?](https://www.adeosecurity.com/siber-guvenlik/rubber-ducky-nedir.html)
+  * [MSFvenom Usage](https://www.adeosecurity.com/blog/msfvenom-kullanimi.html)
+  * [What is Crypter?](https://www.adeosecurity.com/siber-guvenlik/crypter-nedir.html)
+  * [What is Rubber Ducky?](https://www.adeosecurity.com/siber-guvenlik/rubber-ducky-nedir.html)
 * Pamukkale Univercity IT Department
   * Studying about PacketFence NAC (Network Access Control) Solution
 
